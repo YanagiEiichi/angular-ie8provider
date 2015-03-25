@@ -1,0 +1,21 @@
+{
+  "name": "angular-ie8provider",
+  "main": "angular-ie8provider.js",
+  "version": "0.0.0",
+  "authors": [
+    "YanagiEiichi <admin@web-tinker.com>"
+  ],
+  "description": "angular-ie8provider",
+  "keywords": [
+    "angular",
+    "ie8"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
